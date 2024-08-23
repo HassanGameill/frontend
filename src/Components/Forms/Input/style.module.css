@@ -1,0 +1,40 @@
+
+
+
+.Form_Group {
+  
+}
+
+.Form_Group input{
+  background: none;
+  outline: none;
+  border-radius: 1rem;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  
+}
+
+.Form_Group input::placeholder {
+  font-size: 12px;
+}
+
+.Form_Group label {
+  margin-top: 5px;
+  font-size: 10px;
+  border: 1.5px;
+}
+
+
+.Error {
+  border: 1.5px solid red;
+}
+
+.FormText {
+  font-size: 11px;
+  color: blue;
+  
+}
+.Success {
+  border: 1.5px solid green;
+}

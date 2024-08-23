@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active {
+  color: #c0f4d0;
+}
+
+
+section {
+  padding: 10px 0px;
+}
+
+.loading_data {
+  color: #4cbae5;
+  font-size: 12px;
+}
+
+
+.slick-slide {
+    padding: 6px;
+}

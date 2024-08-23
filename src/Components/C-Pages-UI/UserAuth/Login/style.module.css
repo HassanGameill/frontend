@@ -1,0 +1,21 @@
+
+
+
+.Form_Group {
+  
+}
+
+.Form_Group input{
+  background: none;
+  outline: none;
+  border-radius: 1rem;
+  background-color: #fff;
+  cursor: pointer;
+  
+
+}
+
+.Form_Group label {
+  margin-top: 5px;
+  color: #777;
+}

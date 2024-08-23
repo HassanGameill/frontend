@@ -1,0 +1,30 @@
+
+
+
+.Form_Group {
+  
+}
+
+.Form_Group input{
+  background: none;
+  outline: none;
+  border-radius: 1rem;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Form_Group input::placeholder {
+  font-size: 12px;
+}
+
+.Form_Group label {
+  margin-top: 5px;
+  color: red;
+  font-size: 10px;
+}
+
+
+.onFocus {
+  border: 1.5px solid red;
+}
